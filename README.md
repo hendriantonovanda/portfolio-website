@@ -2,7 +2,6 @@
 This is a personal portfolio website to showcase my skills, projects, and experience. The website is built with HTML, CSS, and JavaScript to provide an interactive and modern user experience.
 
 # Project Overview
-
 The website includes the following sections :
 - **Beranda (Home)** : Main page with an introduction and links to other sections.
 - **Tentang (About)** : Detailed information about me, my background, and interests.
