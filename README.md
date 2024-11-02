@@ -21,10 +21,10 @@ The website includes the following sections :
 
 # Installation
 1. Clone this repository to your local directory :
-    ```git clone https://github.com/username/personal-portfolio-website.git
+    ```bash git clone https://github.com/username/personal-portfolio-website.git
     ```
 2. Navigate to the project directory :
-     ```cd personal-portfolio-website
+     ```bash git cd personal-portfolio-website
      ```
 3. Open the index.html file in your browser to view the website.
 
