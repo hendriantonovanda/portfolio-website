@@ -26,7 +26,7 @@ The website includes the following sections :
    ```
 2. Navigate to the project directory :
    ```bash
-   git cd personal-portfolio-website
+   git cd portfolio-website
    ```
 3. Open the index.html file in your browser to view the website.
 
