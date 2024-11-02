@@ -1,8 +1,8 @@
 # Portfolio Website
-
 This is a personal portfolio website to showcase my skills, projects, and experience. The website is built with HTML, CSS, and JavaScript to provide an interactive and modern user experience.
 
 # Project Overview
+
 The website includes the following sections :
 - **Beranda (Home)** : Main page with an introduction and links to other sections.
 - **Tentang (About)** : Detailed information about me, my background, and interests.
@@ -21,12 +21,12 @@ The website includes the following sections :
 
 ## Installation
 1. Clone this repository to your local directory :
-   ```bash
+   ```
    git clone https://github.com/username/personal-portfolio-website.git
    ```
 2. Navigate to the project directory :
-   ```bash
-   git cd portfolio-website
+   ```
+   cd portfolio-website
    ```
 3. Open the index.html file in your browser to view the website.
 
