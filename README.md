@@ -4,10 +4,10 @@ This is a personal portfolio website to showcase my skills, projects, and experi
 
 # Project Overview
 The website includes the following sections :
-- Beranda (Home) : Main page with an introduction and links to other sections.
-- Tentang (About) : Detailed information about me, my background, and interests.
-- Kontak (Contact) : Contact information and links to social media profiles.
-
+- **Beranda (Home)**: Main page with an introduction and links to other sections.
+- **Tentang (About)**: Detailed information about me, my background, and interests.
+- **Kontak (Contact)**: Contact information and links to social media profiles.
+- 
 # Features
 - Responsive navigation for easy access to different sections.
 - Introduction section that highlights who I am and my areas of expertise.
@@ -19,13 +19,15 @@ The website includes the following sections :
 - CSS for styling and layout.
 - JavaScript for interactive elements (e.g., animated text).
 
-# Installation
-1. Clone this repository to your local directory :
-    ```bash git clone https://github.com/username/personal-portfolio-website.git
-    ```
+## Installation
+1. Clone this repository to your local directory:
+   ```bash
+   git clone https://github.com/username/personal-portfolio-website.git
+   ```
 2. Navigate to the project directory :
-     ```bash git cd personal-portfolio-website
-     ```
+   ```bash
+   git cd personal-portfolio-website
+   ```
 3. Open the index.html file in your browser to view the website.
 
 # Contribution
